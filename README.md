@@ -7,3 +7,7 @@ This is the matlab code used to simulate the gradual failure of rectangular fish
 2. Luo, Wen, and Zdeněk P. Bažant. "Fishnet statistics for probabilistic strength and scaling of nacreous imbricated lamellar materials." Journal of the Mechanics and Physics of Solids 109 (2017): 264-287.
 3. Luo, Wen, and Zdeněk P. Bažant. "Fishnet model with order statistics for tail probability of failure of nacreous biomimetic materials with softening interlaminar links." Journal of the Mechanics and Physics of Solids 121 (2018): 281-295.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+To run the code, use the file "Fishnet_FEM_Softening_Batch_V2.m" as the main function. The code itself is self-explanatory.
+
+Contact: wenluo2016[at]u.northwestern.edu
