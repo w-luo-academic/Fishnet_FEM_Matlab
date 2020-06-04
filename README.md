@@ -18,6 +18,6 @@ To run the code, use the file "**Fishnet_FEM_Softening_Batch_V2.m**" as the main
 
 Different **random distributions** of link strength can be used by calling the functions with name "**r_sig_XXX**".
 
-The code itself is self-explanatory.
+The code is self-explanatory.
 
 Contact: wenluo2016[at]u.northwestern.edu
