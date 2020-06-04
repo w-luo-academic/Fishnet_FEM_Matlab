@@ -16,7 +16,7 @@ It was used to generate millions of strength data for the histogram in the follo
 ----------------------------------------------------------------------------------------------------------------------------------------
 To run the code, use the file "**Fishnet_FEM_Softening_Batch_V2.m**" as the main function. 
 
-Different random distributions of link strength can be used by calling various functions with name "**r_sig_XXX**".
+Different **random distributions** of link strength can be used by calling the functions with name "**r_sig_XXX**".
 
 The code itself is self-explanatory.
 
