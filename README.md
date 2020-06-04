@@ -1,7 +1,9 @@
 # Fishnet_FEM_Matlab
 ## Fishnet Lattice Finite Element Code (in Matlab)
 
-![GitHub Logo](/damage_evolution.png)
+<p align="center">
+  <img src="/damage_evolution.png" width="700" alt="accessibility text">
+</p>
 
 This is the matlab code used to simulate the gradual failure of rectangular fishnet lattices in the following publications:
 
