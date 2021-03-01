@@ -26,7 +26,7 @@ for ii = 1:num_e
    if p0(ii) <= 0.102792
        sig_0(ii) = 12*(-log(1-0.392074 * p0(ii)))^(1/10);
    elseif p0(ii) > 0.102792
-       sig_0(ii) = 10 - 1.131371 * erfinv(2.10872 * p0(ii) - 1.108717);
+       sig_0(ii) = 10 + 1.131371 * erfinv(2.10872 * p0(ii) - 1.108717);
    else
        sig_0(ii) = 8.6;
    end
